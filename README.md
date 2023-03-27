@@ -17,7 +17,6 @@ I'm a computer engineering student at [UFRN](https://www.ufrn.br/). I have exper
 ### :calling: [From idea discovery to beautiful, usable screens](https://ballistic-budget-12a.notion.site/Deborah-Moreira-de6e875635c340c09536fee277609715)
 ⚒️ Figma | Design Thinking | UX & UI
 
-🔍 Feel free to navigate among other projects
 ##
 
 
