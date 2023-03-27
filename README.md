@@ -18,6 +18,8 @@ I'm a computer engineering student at [UFRN](https://www.ufrn.br/). My interests
 ⚒️ Figma | Design Thinking | UX & UI
 
 ##
+🔬 I have experience with APIs and web systems development.
+
 🌱 I'm currently learning to deal with unstructured data and MLOps.
 
-:mailbox: Reach me at [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/Deborah#3598)
+:mailbox: You can reach me at [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/Deborah#3598)
