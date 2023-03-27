@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**deborahmoreira/deborahmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my profile!**
 
-Here are some ideas to get you started:
+I'm a computer engineering student at [UFRN](https://www.ufrn.br/). My interests include but are not limited to applied science, such as machine learning, computer vision, natural language processing, the APIs and web systems made for interaction and the computing power infrastructure behind the scenes.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤓 Here are some of my favourite projects:
+
+### 📊 [Data Science applied to industrial production control problems](https://github.com/deborahmoreira/data_science_ind_40)
+
+⚒️ Python | Pandas | Numpy | Google Cloud Plataform | Airflow 
+
+### 🌐 [Exploring complex networks through Wikipidia pages](https://github.com/deborahmoreira/data_structure_ii/tree/main/wikipedia_network)
+⚒️ Python | Gephi | Seaborn | Matplotlib
+
+### :calling: [From idea discovery to beautiful, usable screens](https://ballistic-budget-12a.notion.site/Deborah-Moreira-de6e875635c340c09536fee277609715)
+⚒️ Figma | Design Thinking | UX & UI
+
+##
+🌱 I'm currently learning to deal with unstructured data and MLOps.
+
