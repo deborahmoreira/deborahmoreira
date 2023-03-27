@@ -5,7 +5,7 @@
 I'm a computer engineering student at [UFRN](https://www.ufrn.br/). My interests include but are not limited to applied science, such as machine learning, computer vision, natural language processing, the APIs and web systems made for interaction and the computing power infrastructure behind the scenes.
  
 
-## 📂Here are some of my favourite projects:
+## 📂 Here are some of my favourite projects:
 
 ### 📊 [Data Science applied to industrial production control problems](https://github.com/deborahmoreira/data_science_ind_40)
 
