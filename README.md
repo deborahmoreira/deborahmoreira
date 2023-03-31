@@ -1,5 +1,4 @@
-# Hi there 👋
-
+# `print("Hello, World!")`
 **Welcome to my profile!**
 
 I'm a computer engineering student at [UFRN](https://www.ufrn.br/). I have experience with APIs and web systems development. My interests include deep learning, machine learning, computer vision and the intersection of vision and language. Also, the computing infrastructure that acts behind the scenes.
